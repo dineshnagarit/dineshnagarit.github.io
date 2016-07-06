@@ -1,8 +1,8 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Dinesh Nagar
+bio:  A Man who loves javascript. 
 
-# twitter summary info
+# twitter summary info 
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://koppl.in/indigo
+# url: http://koppl.in/indigo //settings for custom domain
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -29,32 +29,32 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter:  twitter.com/DineshNaagar
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: https://in.linkedin.com/in/dineshnagarit
+#youtube: myyoutube
+#spotify: myspotify
+github: https://github.com/dineshnagarit
+#medium: medium
+#vimeo: myvimeo
+email:  dineshnagarit@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    dineshnagar:
+        name: Dinesh Nagar
+        bio: A Man who loves javascript
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+        twitter: DineshNaagar
+    dineshnagar:
+        name: Dinesh Nagar
+        bio:  A Man who loves javascript
         external-image: false
         picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: DineshNaagar
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
