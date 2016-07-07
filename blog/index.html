@@ -5,7 +5,7 @@ layout: page
 title: Blog
 ---
 <section class="list">
-	{% if site.posts.size == 0 %}
+	<!-- {% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
@@ -20,5 +20,6 @@ title: Blog
 			{% include blog-post.html %}
 		{% endfor %}
 	{% endif %}
-	<div class="infinite-spinner"></div>
+	<div class="infinite-spinner"></div> -->
+	<p class="text-center">Nothing published yet!</p>
 </section>
