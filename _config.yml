@@ -45,15 +45,15 @@ email:  dineshnagarit@gmail.com
 authors:
     dineshnagar:
         name: Dinesh Nagar
-        bio: A Man who loves javascript
+        bio: A Man who loves javascript and cricket!
         external-image: false
         picture: assets/images/profile.jpg
         twitter: DineshNaagar
     dineshnagar:
         name: Dinesh Nagar
-        bio:  A Man who loves javascript
+        bio:  A Man who loves javascript and cricket!
         external-image: false
-        picture: assets/images/james.jpg
+        picture: assets/images/profile.jpg
         twitter: DineshNaagar
 
 # do you want a larger site? change the option below
