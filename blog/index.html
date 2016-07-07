@@ -17,7 +17,7 @@ title: Blog
 		{% endif %}
 	{% else %}
 		{% for post in site.posts limit: 5 %}
-			{% include blog-post.html %}
+			 {{ post.url }}
 		{% endfor %}
 	{% endif %}
 	<div class="infinite-spinner"></div>
