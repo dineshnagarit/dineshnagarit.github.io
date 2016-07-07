@@ -16,8 +16,9 @@ title: Blog
 			{% include pagination.html%}
 		{% endif %}
 	{% else %}
-		{% for post in site.posts %}
+		{% for post in site.posts limit: 5 %}
 			{% include blog-post.html %}
 		{% endfor %}
 	{% endif %}
 </section>
+<div class="infinite-spinner"></div>

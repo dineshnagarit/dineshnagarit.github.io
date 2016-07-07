@@ -1,0 +1,32 @@
+---
+title: "Car game! without any assets"
+layout: post
+date: 2016-01-23 22:10
+tag: unity3d
+image: /assets/images/unity-3d.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A simple car game using Unity 3D!"
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: dineshnagar
+externalLink: false
+---
+
+![Screenshot](http://content.screencast.com/users/DineshNagarIT/folders/Jing/media/7a5f6dc1-60d7-42ad-8023-6cc2a1a77e50/2016-07-07_1138.png)
+
+Example of project - A simple car game using Unity 3D!
+
+---
+
+What has inside?
+
+- C#
+- Car and wheels gameobjects
+- No assets
+- Car moving script logic like up ,down ,left ,right
+
+---
+
+[Check it out](https://github.com/dineshnagarit/dcar) here.
+If you need some help, just [tell me](http://github.com/dineshnagarit).
