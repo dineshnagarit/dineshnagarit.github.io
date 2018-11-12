@@ -45,13 +45,13 @@ email:  dineshnagarit@gmail.com
 authors:
     dineshnagar:
         name: Dinesh Nagar
-        bio: A Man who loves javascript and cricket!
+        bio: Loves javascript and cricket!
         external-image: false
         picture: assets/images/profile.jpg
         twitter: DineshNaagar
     dineshnagar:
         name: Dinesh Nagar
-        bio:  A Man who loves javascript and cricket!
+        bio:  Loves javascript and cricket!
         external-image: false
         picture: assets/images/profile.jpg
         twitter: DineshNaagar
@@ -69,7 +69,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
